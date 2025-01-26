@@ -33,6 +33,7 @@ I am currently a third-year PhD student in [CSE@UB](https://engineering.buffalo.
 - Simon Thomann, Rodion Novkin, **Jiajie Li**, Yuting Hu, Jinjun Xiong, Hussam Amrouch, ["ML-TCAD: Accelerating FeFET Reliability Analysis Using Machine Learning"](https://ieeexplore.ieee.org/document/10345547), IEEE Transactions on Electron Devices, 2023
 
 ### Selected Preprint 📜
+
 - **Jiajie Li**, Garrett Skinner, Gene Yang, Brian R Quaranto, Steven D Schwaitzberg, Peter CW Kim, Jinjun Xiong, ["LLaVA-Surg: towards multimodal surgical assistant via structured surgical video learning"](https://arxiv.org/abs/2408.07981), arXiv 2024
 - **Jiajie Li**, Jinjun Xiong, ["xMLP: Revolutionizing Private Inference with Exclusive Square Activation"](https://arxiv.org/pdf/2403.08024), arXiv 2023
 
@@ -41,7 +42,5 @@ I am currently a third-year PhD student in [CSE@UB](https://engineering.buffalo.
 
 - Reviewer of Conference on Computer Vision and Pattern Recognition (CVPR), *2025*
 - Reviewer of Conference on Computer Vision and Pattern Recognition (CVPR), *2024*
+- Reviewer of International Conference on Learning Representations (ICLR) , *2024*
 - Reviewer of Transactions on Neural Networks and Learning Systems (TNNLS), *2024*
-
-<!-- 
-# try it out 👇👇👇 -->
