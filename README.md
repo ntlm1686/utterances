@@ -27,7 +27,7 @@ I am currently a third-year PhD student in [CSE@UB](https://engineering.buffalo.
 
 ### Selected Publications 📄
 
-- **Jiajie Li**, Brian R Quaranto, Chenhui Xu, Ishan Mishra, Ruiyang Qin, Dancheng Liu, Peter C W Kim, Jinjun Xiong, ["Recognize Any Surgical Object: Unleashing the Power of Weakly-Supervised Data"](https://openreview.net/pdf?id=iuxaCU3DI7), ICLR 2025
+- **Jiajie Li**, Brian R Quaranto, Chenhui Xu, Ishan Mishra, Ruiyang Qin, Dancheng Liu, Peter C W Kim, Jinjun Xiong, ["Recognize Any Surgical Object: Unleashing the Power of Weakly-Supervised Data"](https://openreview.net/pdf?id=iuxaCU3DI7), ICLR 2025 (Spotlight, 5.1%)
 - Yuhong Li, **Jiajie Li**, Cong Hao, Pan Li, Jinjun Xiong, Deming Chen, [“Extensible and Efficient Proxy for Neural Architecture Search”](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Extensible_and_Efficient_Proxy_for_Neural_Architecture_Search_ICCV_2023_paper.pdf), ICCV 2023
 - Yuting Hu, **Jiajie Li**, Florian Klemme, Gi-Joon Nam, Tengfei Ma, Hussam Amrouch, Jinjun Xiong, ["SyncTREE: fast timing analysis for integrated circuit design through a physics-informed tree-based graph neural network"](https://proceedings.neurips.cc/paper_files/paper/2023/file/435e8fbbfc2c6072d4f3a5cb6e56a39a-Paper-Conference.pdf), NeurIPS 2023
 - Simon Thomann, Rodion Novkin, **Jiajie Li**, Yuting Hu, Jinjun Xiong, Hussam Amrouch, ["ML-TCAD: Accelerating FeFET Reliability Analysis Using Machine Learning"](https://ieeexplore.ieee.org/document/10345547), IEEE Transactions on Electron Devices, 2023
