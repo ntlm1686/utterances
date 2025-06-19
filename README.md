@@ -16,7 +16,7 @@ I am currently a third-year PhD student in [CSE@UB](https://engineering.buffalo.
 
 ### Experiences 👷🏼
 
-- ** ♪  ByteDance**, Intern Research Scientist/Engineer, *01/2025 - Present*
+- ** ♪  ByteDance**, Research Intern, *01/2025 - Present*
 - ** Ⓜ Motorola Solutions**, Research Intern, *05/2023 - 08/2023*
 - ** 🐝 IBM Research**, Hybrid Cloud Intern, *05/2022 - 08/2022*
 
