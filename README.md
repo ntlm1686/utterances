@@ -4,26 +4,21 @@
 [[Linkedin]](https://www.linkedin.com/in/li-jia-jie/)
 [[Github]](https://github.com/ntlm1686)
 [[Email]](mailto:x@jiajie.li)
+[[Resume]](Jiajie_Li_Resume_26_Summer_Intern_oct17.pdf)
 
-I am currently a third-year PhD student in [CSE@UB](https://engineering.buffalo.edu/computer-science-engineering.html). I am working under the supervision of [Prof. Jinjun Xiong](https://www.xlab-ub.com/) since 2022. My research focuses on ** 🤖 LLM & VLM, 🔪 Surgical AI and 🔓 Private Inference**.
-
-<!-- - [Open source](https://github.com/utterance). 🙌
-- No tracking, no ads, always free. 📡🚫
-- No lock-in. All data stored in GitHub issues. 🔓
-- Styled with [Primer](http://primer.style), the css toolkit that powers GitHub. 💅
-- Dark theme. 🌘
-- Lightweight. Vanilla TypeScript. No font downloads, JavaScript frameworks or polyfills for evergreen browsers. 🐦🌲 -->
+I am currently a third-year PhD student in [CSE@UB](https://engineering.buffalo.edu/computer-science-engineering.html). I am working under the supervision of [Prof. Jinjun Xiong](https://www.xlab-ub.com/) since 2022. My research focuses on LLM domain adaptation, LLM evaluation (LLM-as-a-Judge), 🔪 Surgical AI, 🔓 Private Inference. I am currently seeking a internship in 2026.
 
 ### Experiences 👷🏼
 
-- ** ♪  ByteDance**, Research Intern, *01/2025 - Present*
+- ** ♪  ByteDance**, Research Intern, *01/2025 - 07/2025*
 - ** Ⓜ Motorola Solutions**, Research Intern, *05/2023 - 08/2023*
 - ** 🐝 IBM Research**, Hybrid Cloud Intern, *05/2022 - 08/2022*
 
 ### Education 🎓
 
-- ** 🦬 University at Buffalo**, Computer Science, PhD, *2023 Spring - Present*
-- ** 🦬 University at Buffalo**, Computer Science, MS, *2020 Fall - 2022 Winter*
+- ** 🦬 University at Buffalo**, Computer Science, PhD, *2023 - Present*
+- ** 🦬 University at Buffalo**, Computer Science, MS, *2020 - 2022*
+- ** Hangzhou Dianzi University**, Information and Computing Science, BS, *2015 - 2019*
 
 ### Selected Publications 📄
 
@@ -36,10 +31,15 @@ I am currently a third-year PhD student in [CSE@UB](https://engineering.buffalo.
 
 - **Jiajie Li**, Garrett Skinner, Gene Yang, Brian R Quaranto, Steven D Schwaitzberg, Peter CW Kim, Jinjun Xiong, ["LLaVA-Surg: towards multimodal surgical assistant via structured surgical video learning"](https://arxiv.org/abs/2408.07981), arXiv 2024
 - **Jiajie Li**, Jinjun Xiong, ["xMLP: Revolutionizing Private Inference with Exclusive Square Activation"](https://arxiv.org/pdf/2403.08024), arXiv 2023
+- **Jiajie Li**, Huayi Zhang, Peng Lin, Jinjun Xiong, Wei Xu, ["Auto-Prompt Ensemble for LLM Judge
+"](https://arxiv.org/abs/2510.06538), arxiv 2025
 
 
 ### Professional Service 👨‍💻
 
+- Reviewer of Conference on Computer Vision and Pattern Recognition (ICLR), *2026*
+- Reviewer of Conference on Computer Vision and Pattern Recognition (WACV), *2025*
+- Reviewer of Conference on Computer Vision and Pattern Recognition (NeurIPS), *2025*
 - Reviewer of Conference on Computer Vision and Pattern Recognition (CVPR), *2025*
 - Reviewer of Conference on Computer Vision and Pattern Recognition (CVPR), *2024*
 - Reviewer of International Conference on Learning Representations (ICLR) , *2024*
