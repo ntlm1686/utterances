@@ -4,7 +4,7 @@
 [[Linkedin]](https://www.linkedin.com/in/li-jia-jie/)
 [[Github]](https://github.com/ntlm1686)
 [[Email]](mailto:x@jiajie.li)
-[[Resume]](Jiajie_Li_Resume_26_Summer_Intern_oct17.pdf)
+[[Resume]](https://github.com/ntlm1686/utterances/blob/master/Jiajie_Li_Resume_26_Summer_Intern_oct17.pdf)
 
 I am currently a third-year PhD student in [CSE@UB](https://engineering.buffalo.edu/computer-science-engineering.html). I am working under the supervision of [Prof. Jinjun Xiong](https://www.xlab-ub.com/) since 2022. My research focuses on LLM domain adaptation, LLM evaluation (LLM-as-a-Judge), 🔪 Surgical AI, 🔓 Private Inference. I am currently seeking a internship in 2026.
 
